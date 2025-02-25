@@ -51,6 +51,3 @@
 
 <img style="width:100%" src="./assets/webPageSS/4.jpg" >
 
-## View the Project Ideation Map below 👇
-
-#### <h6> Click Here:- https://github.com/Pallavikumarimdb/HCL-CRMS/blob/main/IdeationMap.md<h6>
